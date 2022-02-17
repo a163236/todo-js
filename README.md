@@ -1,2 +1,1 @@
-# todo-js
-Created with CodeSandbox
+# HTML CSS JavaScript で作った TODO リスト WEB アプリ
